@@ -11,7 +11,7 @@ item2.X-ABLabel:mobile France
 item3.TEL;TYPE=WORK;TYPE=VOICE:+212 5 22 24 28 09
 item3.X-ABLabel:fixe bureau
 EMAIL;TYPE=WORK;TYPE=INTERNET:a.elbanouri@envirmat.ma
-item4.URL:https://envirmat.ma
+item4.URL:https://www.envirmat.ma
 item4.X-ABLabel:site web
 ADR;TYPE=WORK:;;4 boulevard Moulay Ismail\, 7ème étage\, Bureau 37\, Quar
  tier Les Roches Noires;Casablanca;;20290;Maroc
@@ -182,5 +182,5 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUG
  6dZWUdjbWNtFaxgKsSxgKAParMUEUCbIo0jX0QAD9KqWf/yw/H/gCjw9/NU/D/gnkPwh+Es+kX
  C+IPEVsI7tObS1fBMR/wCejf7XoO3Xr09hoorw8TiZ4ifPM93C4WGHh7OAUUUVznQFFFFABRRR
  QAUUUUAFFFFAH//Z
-REV:20261013T033545Z
+REV:20261013T065116Z
 END:VCARD
